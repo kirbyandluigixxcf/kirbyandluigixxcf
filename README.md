@@ -19,8 +19,6 @@
   <a href="mailto:priyanshiiroy@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
-
 ### About Me >"<
 
 Fervent about systems engineering and low level graphic rendering that could be put on real time use and working on them through cohesive approach!! (^///^)
@@ -29,15 +27,16 @@ Fervent about systems engineering and low level graphic rendering that could be 
 *   **Side Quests** Building custom desktop environments, hacking client-side files for UI mods, and experimenting with interactive graphics.
 *   **Subject of Interest** RISC-V microarchitecture and performance simulation modeling.
 
----
 
 ### Tech Stack & Ecosystem (≧▽≦)
 
 ```text
- ┌──────────────────────────────────────────────────────────┐
- │  LANGUAGES  ▶  C++  •  Zig  •  PostgresSQL  •  Python    │
- │  SYSTEMS    ▶  Linux  •  Windows Subsystem for Linux     │
- │  GRAPHICS   ▶  OpenGL  •  Krita  •  UI Rendering         │
- │  TOOLS      ▶  Git  •  VS Code  •  CLI Automation        |
-|                 •  ESP-IDF •  Arduino                    │
+┌──────────────────────────────────────────────────────────┐
+ │  LANGUAGES  ▶  C++  •  Python  •  Zig  •  C#             │
+ │  SYSTEMS    ▶  Linux  •  WSL  •  VMs                     │
+ │  GRAPHICS   ▶  OpenGL  •  DirectX                        │
+ │  CREATIVE   ▶  Krita  •  After Effects  •  Photoshop     │
+ │                Figma                                     │
+ │  TOOLS      ▶  Git  •  Docker  •  ESP-IDF  •  Arduino    │
+ │                Unity                                     │
  └──────────────────────────────────────────────────────────┘
