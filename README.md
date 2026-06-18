@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**kirbyandluigixxcf/kirbyandluigixxcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ . .   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+  ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
 
-Here are some ideas to get you started:
+██████╗  █████╗ ███╗   ██╗███████╗██╗  ██╗██╗
+██╔══██╗██╔══██╗████╗  ██║██╔════╝██║  ██║██║
+██████╔╝███████║██╔██╗ ██║███████╗███████║██║
+██╔═══╝ ██╔══██║██║╚██╗██║╚════██║██╔══██║██║
+██║     ██║  ██║██║ ╚████║███████║██║  ██║██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>3rd Year Electronics & Communication Engineering with specialisation in AI Student @ IGDTUW</strong><br>
+  <i>Exploring low-level systems, computer architecture, and software performance along with game development and graphic rendering. </i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/priyanshiroy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:priyanshiiroy@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+### 💻 About Me
+
+I am a passionate undergraduate developer bridging the gap between hardware architecture and high-performance software systems. I love dissecting how things work under the hood—from processor instruction sets to custom desktop clients.
+
+*   🔭 **Current Focus:** Advanced systems programming, digital logic design, and algorithms.
+*   🛠️ **Side Quests:** Building custom desktop environments, hacking client-side files for UI mods, and experimenting with interactive graphics.
+*   🧠 **Deep Dives:** RISC-V microarchitecture and performance simulation modeling.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+```text
+ ┌──────────────────────────────────────────────────────────┐
+ │  LANGUAGES  ▶  C++  •  Zig  •  PostgresSQL  •  Python    │
+ │  SYSTEMS    ▶  Linux  •  Windows Subsystem for Linux     │
+ │  GRAPHICS   ▶  OpenGL  •  Krita  •  UI Rendering         │
+ │  TOOLS      ▶  Git  •  VS Code  •  CLI Automation        │
+ └──────────────────────────────────────────────────────────┘
