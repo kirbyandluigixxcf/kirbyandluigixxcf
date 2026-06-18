@@ -23,11 +23,11 @@
 
 ### 💻 About Me
 
-I am a passionate undergraduate developer bridging the gap between hardware architecture and high-performance software systems. I love dissecting how things work under the hood—from processor instruction sets to custom desktop clients.
+Fervent about systems engineering and low level graphic rendering that could be put on real time use and working on them through cohesive approach!! (^///^)
 
-*   🔭 **Current Focus:** Advanced systems programming, digital logic design, and algorithms.
-*   🛠️ **Side Quests:** Building custom desktop environments, hacking client-side files for UI mods, and experimenting with interactive graphics.
-*   🧠 **Deep Dives:** RISC-V microarchitecture and performance simulation modeling.
+*   **Current Focus** Advanced systems programming, digital logic design, and algorithms.
+*   **Side Quests** Building custom desktop environments, hacking client-side files for UI mods, and experimenting with interactive graphics.
+*   **Subject of Interest** RISC-V microarchitecture and performance simulation modeling.
 
 ---
 
@@ -38,5 +38,6 @@ I am a passionate undergraduate developer bridging the gap between hardware arch
  │  LANGUAGES  ▶  C++  •  Zig  •  PostgresSQL  •  Python    │
  │  SYSTEMS    ▶  Linux  •  Windows Subsystem for Linux     │
  │  GRAPHICS   ▶  OpenGL  •  Krita  •  UI Rendering         │
- │  TOOLS      ▶  Git  •  VS Code  •  CLI Automation        │
+ │  TOOLS      ▶  Git  •  VS Code  •  CLI Automation        |
+|                 •  ESP-IDF •  Arduino                    │
  └──────────────────────────────────────────────────────────┘
